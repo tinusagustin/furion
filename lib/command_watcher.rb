@@ -25,7 +25,7 @@ Hello, nice yo meet you!
       <<-MESSAGE
 Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
       MESSAGE
-    elsif args[0].include?('cc fe')
+    elsif args[0].include?('/cc_fe')
       <<-MESSAGE
 Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
       MESSAGE
