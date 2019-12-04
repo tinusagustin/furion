@@ -42,7 +42,7 @@ Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       RandomDotaRole.dota_role
     elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
       'Think about it man!'
-    elsif ['product'].include? args[0].downcase
+    elsif 'product'.include? args[0].downcase
       'veby puti juli'
     elsif 'cc product'.include? args[0].downcase
       <<-MESSAGE
