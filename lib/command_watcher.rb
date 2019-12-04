@@ -13,6 +13,7 @@ Hello, nice yo meet you!
 - ask me for a food by typing /food
 - ask me for a random roll by typing /roll
 - ask me for a random dota role by typing /dota_role
+- ask me for a random dota role by typing cc fe
 :)
       MESSAGE
     elsif args[0].include?('/help')
@@ -23,6 +24,10 @@ Hello, nice yo meet you!
     elsif args[0].include?('/info')
       <<-MESSAGE
 Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
+      MESSAGE
+    elsif args[0].include?('cc fe')
+      <<-MESSAGE
+Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
       MESSAGE
     elsif args[0].include?('/quote')
       RandomQuoter.quote
