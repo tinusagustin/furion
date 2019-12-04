@@ -1,0 +1,888 @@
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.9ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (2.2ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.3/lib/rails/commands/rake/rake_command.rb:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+Migrating to CreateCronoJobs (20190812115447)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20190812115447_create_crono_jobs.rb:3
+  [1m[35m (0.4ms)[0m  [1m[35mCREATE TABLE "crono_jobs" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "job_id" varchar NOT NULL, "log" text(1073741823), "last_performed_at" datetime, "healthy" boolean, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20190812115447_create_crono_jobs.rb:3
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_crono_jobs_on_job_id" ON "crono_jobs" ("job_id")[0m
+  ↳ db/migrate/20190812115447_create_crono_jobs.rb:10
+  [1m[36mActiveRecord::SchemaMigration Create (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20190812115447"]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[36mActiveRecord::InternalMetadata Load (0.5ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[36mActiveRecord::InternalMetadata Create (0.8ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2019-08-12 13:27:23.112849"], ["updated_at", "2019-08-12 13:27:23.112849"]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/bin/rake:23
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 5 seconds"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:27
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:27
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 5 seconds"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:27
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 5 seconds"], ["created_at", "2019-08-12 13:28:01.652582"], ["updated_at", "2019-08-12 13:28:01.652582"]]
+  ↳ config/cronotab.rb:27
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:27
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 5 seconds"], ["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T20:28:06.658049 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:06.659448 #17748]  INFO -- : Finished Test in 0.00 seconds\n"], ["last_performed_at", "2019-08-12 13:28:06.658112"], ["healthy", 1], ["updated_at", "2019-08-12 13:28:06.666120"], ["id", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 5 seconds"], ["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T20:28:06.658049 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:06.659448 #17748]  INFO -- : Finished Test in 0.00 seconds\nI, [2019-08-12T20:28:11.663439 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:11.664199 #17748]  INFO -- : Finished Test in 0.00 seconds\n"], ["last_performed_at", "2019-08-12 13:28:11.663475"], ["updated_at", "2019-08-12 13:28:11.666846"], ["id", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 5 seconds"], ["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T20:28:06.658049 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:06.659448 #17748]  INFO -- : Finished Test in 0.00 seconds\nI, [2019-08-12T20:28:11.663439 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:11.664199 #17748]  INFO -- : Finished Test in 0.00 seconds\nI, [2019-08-12T20:28:16.667448 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:16.668195 #17748]  INFO -- : Finished Test in 0.00 seconds\n"], ["last_performed_at", "2019-08-12 13:28:16.667535"], ["updated_at", "2019-08-12 13:28:16.670716"], ["id", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.3ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 5 seconds"], ["id", 1], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T20:28:06.658049 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:06.659448 #17748]  INFO -- : Finished Test in 0.00 seconds\nI, [2019-08-12T20:28:11.663439 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:11.664199 #17748]  INFO -- : Finished Test in 0.00 seconds\nI, [2019-08-12T20:28:16.667448 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:16.668195 #17748]  INFO -- : Finished Test in 0.00 seconds\nI, [2019-08-12T20:28:21.671339 #17748]  INFO -- : Perform Test\nI, [2019-08-12T20:28:21.672059 #17748]  INFO -- : Finished Test in 0.00 seconds\n"], ["last_performed_at", "2019-08-12 13:28:21.671373"], ["updated_at", "2019-08-12 13:28:21.674724"], ["id", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+Started GET "/" for ::1 at 2019-08-12 20:38:12 +0700
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/actionpack-5.2.3/lib/action_dispatch/middleware/callbacks.rb:28
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/agustinusandreassidabalok/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/agustinusandreassidabalok/.rvm/rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.9ms)
+Completed 200 OK in 19ms (Views: 10.8ms | ActiveRecord: 0.0ms)
+
+
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:32"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:28
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:32"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Create (1.1ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 20:32"], ["created_at", "2019-08-12 13:49:26.503482"], ["updated_at", "2019-08-12 13:49:26.503482"]]
+  ↳ config/cronotab.rb:28
+  [1m[35m (1.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:50"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:28
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:50"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Create (1.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 20:50"], ["created_at", "2019-08-12 13:50:03.001137"], ["updated_at", "2019-08-12 13:50:03.001137"]]
+  ↳ config/cronotab.rb:28
+  [1m[35m (1.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:52"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:28
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:52"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 20:52"], ["created_at", "2019-08-12 13:50:47.620286"], ["updated_at", "2019-08-12 13:50:47.620286"]]
+  ↳ config/cronotab.rb:28
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:28
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 20:52"], ["id", 4], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T20:52:00.003860 #18252]  INFO -- : Perform Test\nI, [2019-08-12T20:52:00.016398 #18252]  INFO -- : Finished Test in 0.01 seconds\n"], ["last_performed_at", "2019-08-12 13:52:00.003925"], ["healthy", 1], ["updated_at", "2019-08-12 13:52:00.021442"], ["id", 4]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 21:04"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 21:04"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Create (1.2ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 21:04"], ["created_at", "2019-08-12 14:02:28.029158"], ["updated_at", "2019-08-12 14:02:28.029158"]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 21:04"], ["id", 5], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T21:04:00.002062 #18448]  INFO -- : Perform Test\nI, [2019-08-12T21:04:01.295280 #18448]  INFO -- : Finished Test in 1.29 seconds\n"], ["last_performed_at", "2019-08-12 14:04:00.002141"], ["healthy", 1], ["updated_at", "2019-08-12 14:04:01.314762"], ["id", 5]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 21:15"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 21:15"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Create (1.0ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 21:15"], ["created_at", "2019-08-12 14:14:44.180509"], ["updated_at", "2019-08-12 14:14:44.180509"]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (1.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 21:15"], ["id", 6], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-12T21:15:00.000522 #18618]  INFO -- : Perform Test\nI, [2019-08-12T21:15:01.247771 #18618]  INFO -- : Finished Test in 1.25 seconds\n"], ["last_performed_at", "2019-08-12 14:15:00.000613"], ["healthy", 1], ["updated_at", "2019-08-12 14:15:01.254947"], ["id", 6]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:10"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:10"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Create (1.2ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 14:10"], ["created_at", "2019-08-13 07:09:19.853734"], ["updated_at", "2019-08-13 07:09:19.853734"]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (1.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:12"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:36
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:36
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:12"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:36
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 14:12"], ["created_at", "2019-08-13 07:09:19.860291"], ["updated_at", "2019-08-13 07:09:19.860291"]]
+  ↳ config/cronotab.rb:36
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:36
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:10"], ["id", 7], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-13T14:10:00.004852 #3966]  INFO -- : Perform Test\nI, [2019-08-13T14:10:01.287867 #3966]  INFO -- : Finished Test in 1.28 seconds\n"], ["last_performed_at", "2019-08-13 07:10:00.004876"], ["healthy", 1], ["updated_at", "2019-08-13 07:10:01.292572"], ["id", 7]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:12"], ["id", 8], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.2ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-13T14:12:00.005857 #3966]  INFO -- : Perform Test\nI, [2019-08-13T14:12:01.117205 #3966]  INFO -- : Finished Test in 1.11 seconds\n"], ["last_performed_at", "2019-08-13 07:12:00.005880"], ["healthy", 1], ["updated_at", "2019-08-13 07:12:01.121110"], ["id", 8]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:15"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:15"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Create (1.6ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 14:15"], ["created_at", "2019-08-13 07:14:57.946857"], ["updated_at", "2019-08-13 07:14:57.946857"]]
+  ↳ config/cronotab.rb:35
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:35
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:17"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:36
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:36
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:17"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:36
+  [1m[36mCrono::CronoJob Create (0.4ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 14:17"], ["created_at", "2019-08-13 07:14:57.953243"], ["updated_at", "2019-08-13 07:14:57.953243"]]
+  ↳ config/cronotab.rb:36
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:36
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:15"], ["id", 9], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-13T14:15:00.004736 #4028]  INFO -- : Perform Test\nI, [2019-08-13T14:15:01.229067 #4028]  INFO -- : Finished Test in 1.22 seconds\n"], ["last_performed_at", "2019-08-13 07:15:00.004768"], ["healthy", 1], ["updated_at", "2019-08-13 07:15:01.235152"], ["id", 9]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (2.6ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 10], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 14:17"], ["id", 10], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.5ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-13T14:17:00.003238 #4028]  INFO -- : Perform Test\nI, [2019-08-13T14:17:01.233678 #4028]  INFO -- : Finished Test in 1.23 seconds\n"], ["last_performed_at", "2019-08-13 07:17:00.003258"], ["healthy", 1], ["updated_at", "2019-08-13 07:17:01.244832"], ["id", 10]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.6ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:39"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:48
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:48
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:39"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:48
+  [1m[36mCrono::CronoJob Create (1.0ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 20:39"], ["created_at", "2019-08-13 13:38:11.022629"], ["updated_at", "2019-08-13 13:38:11.022629"]]
+  ↳ config/cronotab.rb:48
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:48
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:49
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:49
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:49
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["created_at", "2019-08-13 13:38:11.029836"], ["updated_at", "2019-08-13 13:38:11.029836"]]
+  ↳ config/cronotab.rb:49
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:49
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:50
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:50
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:50
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["created_at", "2019-08-13 13:38:11.032572"], ["updated_at", "2019-08-13 13:38:11.032572"]]
+  ↳ config/cronotab.rb:50
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:50
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:48
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:48
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:48
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["created_at", "2019-08-13 13:40:44.646216"], ["updated_at", "2019-08-13 13:40:44.646216"]]
+  ↳ config/cronotab.rb:48
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:48
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:49
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:50
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 14], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["id", 14], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.7ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-13T20:41:00.000911 #9064]  INFO -- : Perform TestHalo\nI, [2019-08-13T20:41:01.182273 #9064]  INFO -- : Finished TestHalo in 1.18 seconds\n"], ["last_performed_at", "2019-08-13 13:41:00.000949"], ["healthy", 1], ["updated_at", "2019-08-13 13:41:01.185843"], ["id", 14]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestStart every 1 week on Tuesday"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:75
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:75
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestStart every 1 week on Tuesday"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:75
+  [1m[36mCrono::CronoJob Create (0.4ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestStart every 1 week on Tuesday"], ["created_at", "2019-08-13 13:45:50.715652"], ["updated_at", "2019-08-13 13:45:50.715652"]]
+  ↳ config/cronotab.rb:75
+  [1m[35m (2.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:75
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.8ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 20:41"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:52"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:52"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Create (0.8ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:52"], ["created_at", "2019-08-14 08:52:07.775353"], ["updated_at", "2019-08-14 08:52:07.775353"]]
+  ↳ config/cronotab.rb:76
+  [1m[35m (2.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["created_at", "2019-08-14 08:52:07.781185"], ["updated_at", "2019-08-14 08:52:07.781185"]]
+  ↳ config/cronotab.rb:77
+  [1m[35m (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 17], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["id", 17], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-14T15:53:00.003795 #20816]  INFO -- : Perform Test\nI, [2019-08-14T15:53:01.941869 #20816]  INFO -- : Finished Test in 1.94 seconds\n"], ["last_performed_at", "2019-08-14 08:53:00.003839"], ["healthy", 1], ["updated_at", "2019-08-14 08:53:01.947059"], ["id", 17]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["id", 13], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-14T15:59:00.003610 #20816]  INFO -- : Perform TestYuk\nI, [2019-08-14T15:59:02.927132 #20816]  INFO -- : Finished TestYuk in 2.92 seconds\n"], ["last_performed_at", "2019-08-14 08:59:00.003644"], ["healthy", 1], ["updated_at", "2019-08-14 08:59:02.932914"], ["id", 13]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.7ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:42"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:42"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Create (1.1ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:42"], ["created_at", "2019-08-15 08:41:16.819732"], ["updated_at", "2019-08-15 08:41:16.819732"]]
+  ↳ config/cronotab.rb:76
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:43"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:43"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Create (0.4ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:43"], ["created_at", "2019-08-15 08:41:16.826344"], ["updated_at", "2019-08-15 08:41:16.826344"]]
+  ↳ config/cronotab.rb:77
+  [1m[35m (1.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 18], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:42"], ["id", 18], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.5ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:42:00.002421 #2643]  INFO -- : Perform TestHalo\nI, [2019-08-15T15:42:01.188879 #2643]  INFO -- : Finished TestHalo in 1.19 seconds\n"], ["last_performed_at", "2019-08-15 08:42:00.002448"], ["healthy", 1], ["updated_at", "2019-08-15 08:42:01.192375"], ["id", 18]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["created_at", "2019-08-15 08:43:09.110344"], ["updated_at", "2019-08-15 08:43:09.110344"]]
+  ↳ config/cronotab.rb:76
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["created_at", "2019-08-15 08:43:09.115548"], ["updated_at", "2019-08-15 08:43:09.115548"]]
+  ↳ config/cronotab.rb:77
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 20], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["id", 20], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:44:00.004171 #2667]  INFO -- : Perform TestHalo\nI, [2019-08-15T15:44:01.389153 #2667]  INFO -- : Finished TestHalo in 1.38 seconds\n"], ["last_performed_at", "2019-08-15 08:44:00.004209"], ["healthy", 1], ["updated_at", "2019-08-15 08:44:01.392551"], ["id", 20]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.3ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 21], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["id", 21], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:45:00.004653 #2667]  INFO -- : Perform Test\nI, [2019-08-15T15:45:02.467363 #2667]  INFO -- : Finished Test in 2.46 seconds\n"], ["last_performed_at", "2019-08-15 08:45:00.004674"], ["healthy", 1], ["updated_at", "2019-08-15 08:45:02.470984"], ["id", 21]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.6ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.4ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:08"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:08"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Create (0.6ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestYuk every 1 day at 16:08"], ["created_at", "2019-08-15 09:07:39.764872"], ["updated_at", "2019-08-15 09:07:39.764872"]]
+  ↳ config/cronotab.rb:78
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 22], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:08"], ["id", 22], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T16:08:00.000539 #3053]  INFO -- : Perform TestYuk\nI, [2019-08-15T16:08:03.260219 #3053]  INFO -- : Finished TestYuk in 3.26 seconds\n"], ["last_performed_at", "2019-08-15 09:08:00.000607"], ["healthy", 1], ["updated_at", "2019-08-15 09:08:03.264072"], ["id", 22]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (1.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:76
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:77
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Create (0.5ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["created_at", "2019-08-19 08:50:03.136063"], ["updated_at", "2019-08-19 08:50:03.136063"]]
+  ↳ config/cronotab.rb:78
+  [1m[35m (2.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:78
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 21], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["id", 21], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.2ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:45:00.004653 #2667]  INFO -- : Perform Test\nI, [2019-08-15T15:45:02.467363 #2667]  INFO -- : Finished Test in 2.46 seconds\nI, [2019-08-19T15:50:03.141671 #1176]  INFO -- : Perform Test\nI, [2019-08-19T15:50:04.446804 #1176]  INFO -- : Finished Test in 1.31 seconds\n"], ["last_performed_at", "2019-08-19 08:50:03.141690"], ["updated_at", "2019-08-19 08:50:04.451354"], ["id", 21]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 20], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:44"], ["id", 20], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.2ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:44:00.004171 #2667]  INFO -- : Perform TestHalo\nI, [2019-08-15T15:44:01.389153 #2667]  INFO -- : Finished TestHalo in 1.38 seconds\nI, [2019-08-19T15:50:03.140878 #1176]  INFO -- : Perform TestHalo\nI, [2019-08-19T15:50:04.448688 #1176]  INFO -- : Finished TestHalo in 1.31 seconds\n"], ["last_performed_at", "2019-08-19 08:50:03.140906"], ["updated_at", "2019-08-19 08:50:04.454677"], ["id", 20]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["id", 23], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.6ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-19T16:00:00.071289 #1176]  INFO -- : Perform TestYuk\nI, [2019-08-19T16:00:01.284060 #1176]  INFO -- : Finished TestYuk in 1.21 seconds\n"], ["last_performed_at", "2019-08-19 09:00:00.071334"], ["healthy", 1], ["updated_at", "2019-08-19 09:00:01.289875"], ["id", 23]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.6ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:37"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:37"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Create (1.2ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:37"], ["created_at", "2019-08-28 08:37:12.600024"], ["updated_at", "2019-08-28 08:37:12.600024"]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (3.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 23], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["id", 23], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-19T16:00:00.071289 #1176]  INFO -- : Perform TestYuk\nI, [2019-08-19T16:00:01.284060 #1176]  INFO -- : Finished TestYuk in 1.21 seconds\nI, [2019-08-28T15:37:12.609476 #3185]  INFO -- : Perform TestYuk\nI, [2019-08-28T15:37:14.110540 #3185]  INFO -- : Finished TestYuk in 1.50 seconds\n"], ["last_performed_at", "2019-08-28 08:37:12.609495"], ["updated_at", "2019-08-28 08:37:14.116001"], ["id", 23]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 21], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:45"], ["id", 21], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:45:00.004653 #2667]  INFO -- : Perform Test\nI, [2019-08-15T15:45:02.467363 #2667]  INFO -- : Finished Test in 2.46 seconds\nI, [2019-08-19T15:50:03.141671 #1176]  INFO -- : Perform Test\nI, [2019-08-19T15:50:04.446804 #1176]  INFO -- : Finished Test in 1.31 seconds\nI, [2019-08-28T15:37:12.608677 #3185]  INFO -- : Perform Test\nI, [2019-08-28T15:37:14.110768 #3185]  INFO -- : Finished Test in 1.50 seconds\n"], ["last_performed_at", "2019-08-28 08:37:12.608706"], ["updated_at", "2019-08-28 08:37:14.121398"], ["id", 21]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.3ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:38"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:38"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:38"], ["created_at", "2019-08-28 08:38:04.383367"], ["updated_at", "2019-08-28 08:38:04.383367"]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:38"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:38"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:38"], ["created_at", "2019-08-28 08:38:04.386550"], ["updated_at", "2019-08-28 08:38:04.386550"]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:39"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:39"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:39"], ["created_at", "2019-08-28 08:38:35.142630"], ["updated_at", "2019-08-28 08:38:35.142630"]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (2.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:39"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:39"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:39"], ["created_at", "2019-08-28 08:38:35.148020"], ["updated_at", "2019-08-28 08:38:35.148020"]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 16:00"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (0.3ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 28], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:39"], ["id", 28], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-28T15:39:00.003662 #3240]  INFO -- : Perform Test\nI, [2019-08-28T15:39:01.161423 #3240]  INFO -- : Finished Test in 1.16 seconds\n"], ["last_performed_at", "2019-08-28 08:39:00.003700"], ["healthy", 1], ["updated_at", "2019-08-28 08:39:01.168613"], ["id", 28]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 27], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:39"], ["id", 27], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-28T15:39:00.001929 #3240]  INFO -- : Perform TestHalo\nI, [2019-08-28T15:39:01.217176 #3240]  INFO -- : Finished TestHalo in 1.22 seconds\n"], ["last_performed_at", "2019-08-28 08:39:00.001997"], ["healthy", 1], ["updated_at", "2019-08-28 08:39:01.219362"], ["id", 27]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:40"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:40"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Create (0.3ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:40"], ["created_at", "2019-08-28 08:39:36.371743"], ["updated_at", "2019-08-28 08:39:36.371743"]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:40"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:40"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Create (0.2ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:40"], ["created_at", "2019-08-28 08:39:36.374810"], ["updated_at", "2019-08-28 08:39:36.374810"]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:40"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:40"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Create (0.2ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestYuk every 1 day at 15:40"], ["created_at", "2019-08-28 08:39:36.378162"], ["updated_at", "2019-08-28 08:39:36.378162"]]
+  ↳ config/cronotab.rb:81
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 31], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:40"], ["id", 31], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-28T15:40:00.004245 #3272]  INFO -- : Perform TestYuk\nI, [2019-08-28T15:40:01.287450 #3272]  INFO -- : Finished TestYuk in 1.28 seconds\n"], ["last_performed_at", "2019-08-28 08:40:00.004269"], ["healthy", 1], ["updated_at", "2019-08-28 08:40:01.294110"], ["id", 31]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 29], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:40"], ["id", 29], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.2ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-28T15:40:00.001921 #3272]  INFO -- : Perform TestHalo\nI, [2019-08-28T15:40:01.473638 #3272]  INFO -- : Finished TestHalo in 1.47 seconds\n"], ["last_performed_at", "2019-08-28 08:40:00.002004"], ["healthy", 1], ["updated_at", "2019-08-28 08:40:01.476172"], ["id", 29]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 30], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:40"], ["id", 30], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-28T15:40:00.003445 #3272]  INFO -- : Perform Test\nI, [2019-08-28T15:40:01.568331 #3272]  INFO -- : Finished Test in 1.56 seconds\n"], ["last_performed_at", "2019-08-28 08:40:00.003483"], ["healthy", 1], ["updated_at", "2019-08-28 08:40:01.570534"], ["id", 30]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:42"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:43"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 18], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:42"], ["id", 18], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (2.1ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-15T15:42:00.002421 #2643]  INFO -- : Perform TestHalo\nI, [2019-08-15T15:42:01.188879 #2643]  INFO -- : Finished TestHalo in 1.19 seconds\nI, [2019-08-28T15:40:46.779544 #3307]  INFO -- : Perform TestHalo\nI, [2019-08-28T15:40:48.256939 #3307]  INFO -- : Finished TestHalo in 1.48 seconds\n"], ["last_performed_at", "2019-08-28 08:40:46.779576"], ["updated_at", "2019-08-28 08:40:48.262210"], ["id", 18]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["id", 13], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.6ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-14T15:59:00.003610 #20816]  INFO -- : Perform TestYuk\nI, [2019-08-14T15:59:02.927132 #20816]  INFO -- : Finished TestYuk in 2.92 seconds\nI, [2019-08-28T15:40:46.780501 #3307]  INFO -- : Perform TestYuk\nI, [2019-08-28T15:40:48.260409 #3307]  INFO -- : Finished TestYuk in 1.48 seconds\n"], ["last_performed_at", "2019-08-28 08:40:46.780517"], ["updated_at", "2019-08-28 08:40:48.269591"], ["id", 13]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.8ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Create (1.5ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform TestHalo every 1 day at 15:29"], ["created_at", "2019-08-29 08:19:28.158412"], ["updated_at", "2019-08-29 08:19:28.158412"]]
+  ↳ config/cronotab.rb:79
+  [1m[35m (3.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Exists (0.6ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Create (1.1ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["created_at", "2019-08-29 08:19:28.170686"], ["updated_at", "2019-08-29 08:19:28.170686"]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (2.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 32], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:29"], ["id", 32], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.9ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-29T15:29:00.008493 #2946]  INFO -- : Perform TestHalo\nI, [2019-08-29T15:29:01.545505 #2946]  INFO -- : Finished TestHalo in 1.54 seconds\n"], ["last_performed_at", "2019-08-29 08:29:00.008521"], ["healthy", 1], ["updated_at", "2019-08-29 08:29:01.553694"], ["id", 32]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 33], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.3ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["id", 33], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-29T15:30:00.003652 #2946]  INFO -- : Perform Test\nI, [2019-08-29T15:30:01.201998 #2946]  INFO -- : Finished Test in 1.20 seconds\n"], ["last_performed_at", "2019-08-29 08:30:00.003682"], ["healthy", 1], ["updated_at", "2019-08-29 08:30:01.207167"], ["id", 33]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (1.4ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestHalo every 1 day at 15:29"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:79
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.4ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:81
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 13], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform TestYuk every 1 day at 15:59"], ["id", 13], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.6ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-14T15:59:00.003610 #20816]  INFO -- : Perform TestYuk\nI, [2019-08-14T15:59:02.927132 #20816]  INFO -- : Finished TestYuk in 2.92 seconds\nI, [2019-08-28T15:40:46.780501 #3307]  INFO -- : Perform TestYuk\nI, [2019-08-28T15:40:48.260409 #3307]  INFO -- : Finished TestYuk in 1.48 seconds\nI, [2019-08-30T15:29:14.487109 #683]  INFO -- : Perform TestYuk\nI, [2019-08-30T15:29:15.877323 #683]  INFO -- : Finished TestYuk in 1.39 seconds\n"], ["last_performed_at", "2019-08-30 08:29:14.487133"], ["updated_at", "2019-08-30 08:29:15.883170"], ["id", 13]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (1.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.7ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 33], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["id", 33], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.3ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-29T15:30:00.003652 #2946]  INFO -- : Perform Test\nI, [2019-08-29T15:30:01.201998 #2946]  INFO -- : Finished Test in 1.20 seconds\nI, [2019-09-03T15:32:34.460673 #3611]  INFO -- : Perform Test\nI, [2019-09-03T15:32:35.986183 #3611]  INFO -- : Finished Test in 1.53 seconds\n"], ["last_performed_at", "2019-09-03 08:32:34.460700"], ["updated_at", "2019-09-03 08:32:35.989907"], ["id", 33]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (4.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.8ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:43"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 19], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:43"], ["id", 19], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.6ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "healthy" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-09-06T15:43:00.001778 #1902]  INFO -- : Perform Test\nI, [2019-09-06T15:43:01.475341 #1902]  INFO -- : Finished Test in 1.47 seconds\n"], ["last_performed_at", "2019-09-06 08:43:00.003381"], ["healthy", 1], ["updated_at", "2019-09-06 08:43:01.480218"], ["id", 19]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (1.0ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.3ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 33], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:30"], ["id", 33], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-29T15:30:00.003652 #2946]  INFO -- : Perform Test\nI, [2019-08-29T15:30:01.201998 #2946]  INFO -- : Finished Test in 1.20 seconds\nI, [2019-09-03T15:32:34.460673 #3611]  INFO -- : Perform Test\nI, [2019-09-03T15:32:35.986183 #3611]  INFO -- : Finished Test in 1.53 seconds\nI, [2019-09-10T15:28:35.647636 #1870]  INFO -- : Perform Test\nI, [2019-09-10T15:28:37.266824 #1870]  INFO -- : Finished Test in 1.62 seconds\n"], ["last_performed_at", "2019-09-10 08:28:35.647677"], ["updated_at", "2019-09-10 08:28:37.271788"], ["id", 33]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (5.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.5ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:52"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:52"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Create (1.4ms)[0m  [1m[32mINSERT INTO "crono_jobs" ("job_id", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["job_id", "Perform Test every 1 day at 15:52"], ["created_at", "2019-09-11 08:52:03.741790"], ["updated_at", "2019-09-11 08:52:03.741790"]]
+  ↳ config/cronotab.rb:80
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (1.7ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 17], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["id", 17], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.4ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-14T15:53:00.003795 #20816]  INFO -- : Perform Test\nI, [2019-08-14T15:53:01.941869 #20816]  INFO -- : Finished Test in 1.94 seconds\nI, [2019-09-11T15:52:26.328245 #5080]  INFO -- : Perform Test\nI, [2019-09-11T15:52:27.733974 #5080]  INFO -- : Finished Test in 1.41 seconds\n"], ["last_performed_at", "2019-09-11 08:52:26.328268"], ["updated_at", "2019-09-11 08:52:27.738568"], ["id", 17]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (1.4ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.2ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."id" = ? LIMIT ?[0m  [["id", 17], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? AND "crono_jobs"."id" != ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["id", 17], ["LIMIT", 1]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Update (0.5ms)[0m  [1m[33mUPDATE "crono_jobs" SET "log" = ?, "last_performed_at" = ?, "updated_at" = ? WHERE "crono_jobs"."id" = ?[0m  [["log", "I, [2019-08-14T15:53:00.003795 #20816]  INFO -- : Perform Test\nI, [2019-08-14T15:53:01.941869 #20816]  INFO -- : Finished Test in 1.94 seconds\nI, [2019-09-11T15:52:26.328245 #5080]  INFO -- : Perform Test\nI, [2019-09-11T15:52:27.733974 #5080]  INFO -- : Finished Test in 1.41 seconds\nI, [2019-10-17T13:37:51.069604 #1542]  INFO -- : Perform Test\nI, [2019-10-17T13:37:53.192682 #1542]  INFO -- : Finished Test in 2.12 seconds\n"], ["last_performed_at", "2019-10-17 06:37:51.069652"], ["updated_at", "2019-10-17 06:37:53.196870"], ["id", 17]]
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[35m (3.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ /Users/agustinusandreassidabalok/.rvm/gems/ruby-2.5.1/gems/activerecord-5.2.3/lib/active_record/log_subscriber.rb:98
+  [1m[36mCrono::CronoJob Load (0.1ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80
+  [1m[36mCrono::CronoJob Load (0.3ms)[0m  [1m[34mSELECT  "crono_jobs".* FROM "crono_jobs" WHERE "crono_jobs"."job_id" = ? LIMIT ?[0m  [["job_id", "Perform Test every 1 day at 15:53"], ["LIMIT", 1]]
+  ↳ config/cronotab.rb:80

@@ -1,0 +1,72 @@
+{
+  "foods": [
+    {
+      "what": "Ayam",
+      "who": "Pak Gembus"
+    },
+    {
+      "what": "Bebek",
+      "who": "Pak Slamet"
+    },
+    {
+      "what": "Nasi Goreng",
+      "who": ""
+    },
+    {
+      "what": "Mie Goreng",
+      "who": ""
+    },
+    {
+      "what": "KFC",
+      "who": ""
+    },
+    {
+      "what": "Sate Ayam",
+      "who": ""
+    },
+    {
+      "what": "Sate Padang",
+      "who": ""
+    },
+    {
+      "what": "Batu",
+      "who": ""
+    },
+    {
+      "what": "Soto Ayam",
+      "who": ""
+    },
+    {
+      "what": "Soto Betawi",
+      "who": ""
+    },
+    {
+      "what": "Bakmi GM",
+      "who": ""
+    },
+    {
+      "what": "Yoshinoya",
+      "who": ""
+    },
+    {
+      "what": "McDonald's",
+      "who": ""
+    },
+    {
+      "what": "Kuri Kuri",
+      "who": ""
+    },
+    {
+      "what": "Pagi Sore",
+      "who": ""
+    },
+    {
+      "what": "Gado Gado",
+      "who": ""
+    },
+    {
+      "what": "Ketoprak",
+      "who": ""
+    }
+  ]
+}
