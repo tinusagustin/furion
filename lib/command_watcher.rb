@@ -12,8 +12,7 @@ Hello, nice yo meet you!
 - ask me for a quote by typing /quote
 - ask me for a food by typing /food
 - ask me for a random roll by typing /roll
-- ask me for a random dota role by typing /dota_role
-- ask me for a random dota role by typing cc fe
+- ask me for a random dota role by typing /dota_role]
 :)
       MESSAGE
     elsif args[0].include?('/help')
@@ -43,14 +42,12 @@ Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       RandomDotaRole.dota_role
     elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
       'Think about it man!'
-    elsif ['cc product'].include? args[0].downcase
+    elsif ['product'].include? args[0].downcase
       'veby puti juli'
     elsif 'cc product'.include? args[0].downcase
       <<-MESSAGE
 veby puti juli
       MESSAGE
-    elsif args[0].start_with? 'cc webx'
-      'Sorry, but I do not know that command'
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
