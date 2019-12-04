@@ -12,7 +12,7 @@ class MessageDispatcher
 
   def dispatch(message)
     unless message.nil? || message.empty?
-      @bot.api.sendMessage(chat_id: @chat_id, reply_to_message_id: message.message_id, text: message)
+      @bot.api.sendMessage(chat_id: @chat_id, text: message)
     end
   end
 end

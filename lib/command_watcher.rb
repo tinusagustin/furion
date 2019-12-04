@@ -28,9 +28,17 @@ gqjigqejoiqejqeopj
       <<-MESSAGE
 Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
       MESSAGE
+    elsif args[0].include?('/cc_te')
+      <<-MESSAGE
+Hoy, ada yang nyariin tuh @tinusagustin @izul683
+      MESSAGE
     elsif args[0].include?('/cc_fe')
       <<-MESSAGE
 Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
+      MESSAGE
+    elsif args[0].include?('/cc_be')
+      <<-MESSAGE
+Hoy, ada yang nyariin tuh @farhanadha @sagaramahardikas
       MESSAGE
     elsif args[0].include?('/cc_product')
       <<-MESSAGE
