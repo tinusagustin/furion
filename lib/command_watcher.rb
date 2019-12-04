@@ -20,9 +20,9 @@ Hello, nice yo meet you!
 /start     - startup message
 /quote - get a mindful quote
       MESSAGE
-    elsif 'abcd'
+    elsif args.include?('abcd')
       <<-MESSAGE
-heqhqhqqhe
+gqjigqejoiqejqeopj
       MESSAGE
     elsif args[0].include?('/info')
       <<-MESSAGE
@@ -46,7 +46,7 @@ Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       RandomDotaRole.dota_role
     elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
       'Think about it man!'
-    elsif 'product'.include? args[0].downcase
+    elsif ['product'].include? args[0].downcase
       'veby puti juli'
     elsif 'cc product'.include? args[0].downcase
       <<-MESSAGE
