@@ -29,6 +29,10 @@ Right now there are #{RandomQuoter.count} different quotes that this bot will re
       <<-MESSAGE
 Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
       MESSAGE
+    elsif args[0].include?('/cc_product')
+      <<-MESSAGE
+Hai hai, kalian ada dicariin nih @vebyregina @juliantivalentini @pflarasati
+      MESSAGE
     elsif args[0].include?('/quote')
       RandomQuoter.quote
     elsif args[0].include?('/food')
@@ -39,6 +43,8 @@ Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
       RandomDotaRole.dota_role
     elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
       'Think about it man!'
+    elsif ['cc product'].include? args[0].downcase
+      'veby puti juli'
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
