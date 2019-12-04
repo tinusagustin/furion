@@ -45,6 +45,10 @@ Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       'Think about it man!'
     elsif ['cc product'].include? args[0].downcase
       'veby puti juli'
+    elsif 'cc product'.include? args[0].downcase
+      <<-MESSAGE
+veby puti juli
+      MESSAGE
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
