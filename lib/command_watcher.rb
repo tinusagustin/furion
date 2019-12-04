@@ -20,6 +20,10 @@ Hello, nice yo meet you!
 /start     - startup message
 /quote - get a mindful quote
       MESSAGE
+    elsif 'abcd'
+      <<-MESSAGE
+heqhqhqqhe
+      MESSAGE
     elsif args[0].include?('/info')
       <<-MESSAGE
 Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
