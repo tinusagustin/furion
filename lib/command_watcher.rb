@@ -31,7 +31,7 @@ Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
       MESSAGE
     elsif args[0].include?('/cc_product')
       <<-MESSAGE
-Hai hai, kalian ada dicariin nih @vebyregina @juliantivalentini @pflarasati
+Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       MESSAGE
     elsif args[0].include?('/quote')
       RandomQuoter.quote
