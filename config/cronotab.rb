@@ -49,19 +49,19 @@ Rails.app_class.load_tasks
 
 class TestHalo
   def perform
-    Telegram::Bot::Api.new('381614212:AAHZ1le_iWzO94nxuFmAuuzCv75pxWg0tkA').send_message(chat_id: '-1001453300631', text: 'Halo! 🙏')
+    Telegram::Bot::Api.new('381614212:AAHZ1le_iWzO94nxuFmAuuzCv75pxWg0tkA').send_message(chat_id: '-378704653', text: 'Halo! 🙏')
   end
 end
 
 class Test
   def perform
-    Telegram::Bot::Api.new('381614212:AAHZ1le_iWzO94nxuFmAuuzCv75pxWg0tkA').send_message(chat_id: '-378704653', text: 'SU jam 16.00 ya! 🙏')
+    Telegram::Bot::Api.new('381614212:AAHZ1le_iWzO94nxuFmAuuzCv75pxWg0tkA').send_message(chat_id: '-1001453300631', text: 'SU jam 16.00 ya! 🙏')
   end
 end
 
 class TestYuk
   def perform
-    Telegram::Bot::Api.new('381614212:AAHZ1le_iWzO94nxuFmAuuzCv75pxWg0tkA').send_message(chat_id: '-1001453300631', text: 'Yuk Standup! 🙏')
+    Telegram::Bot::Api.new('381614212:AAHZ1le_iWzO94nxuFmAuuzCv75pxWg0tkA').send_message(chat_id: '-378704653', text: 'Yuk Standup! 🙏')
   end
 end
 
@@ -77,5 +77,5 @@ end
 # Crono.perform(Test).every 5.seconds
 #Crono.perform(TestStart)
 # Crono.perform(TestHalo).every 1.day, at: {hour: 15, min: 29}
-Crono.perform(Test).every 1.day, at: {hour: 15, min: 53}
+Crono.perform(Test).every 1.day, at: {hour: 15, min: 40}
 # Crono.perform(TestYuk).every 1.day, at: {hour: 15, min: 59}
