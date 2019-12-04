@@ -49,6 +49,8 @@ Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       <<-MESSAGE
 veby puti juli
       MESSAGE
+    elsif args[0].start_with? 'cc webx'
+      'Sorry, but I do not know that command'
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
