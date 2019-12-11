@@ -13,7 +13,6 @@ loop do
         case message.text
         when '/photo'
           bot.api.send_photo(chat_id: message.chat.id, photo: Faraday::UploadIO.new('~/Desktop/jennifer.jpg', 'image/jpeg'))
-        end
         when '/aaa'
           question = 'London is a capital of which country?'
           # See more: https://core.telegram.org/bots/api#replykeyboardmarkup
