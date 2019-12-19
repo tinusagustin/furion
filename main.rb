@@ -23,6 +23,7 @@ loop do
           kb = Telegram::Bot::Types::ReplyKeyboardRemove.new(remove_keyboard: true)
           bot.api.send_message(chat_id: message.chat.id, text: 'Sorry to see you go :(', reply_markup: kb)
        end
+     end
         if message&.text && message&.chat&.id
           mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
           mdp.dispatch CommandWatcher.parse(message.text)
