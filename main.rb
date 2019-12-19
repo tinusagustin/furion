@@ -28,7 +28,6 @@ loop do
         end
        end
       end
-    end
   rescue => e
     puts e.inspect
   end
