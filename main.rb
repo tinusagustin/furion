@@ -11,7 +11,6 @@ loop do
     Telegram::Bot::Client.run(token) do |bot|
       bot.listen do |message|
         case message.text
-          dispatcher = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
         when '/makan2'
           question = 'Mau makan-makan kapan?'
           # See more: https://core.telegram.org/bots/api#replykeyboardmarkup
@@ -27,10 +26,6 @@ loop do
         if message&.text && message&.chat&.id
           mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
           mdp.dispatch CommandWatcher.parse(message.text)
-        if message.text.start_with? '/image'
-            image_path = "./images/*"
-            images = Dir[image_path]
-            dispatcher.send(photo: images.sample)
         end
       end
     end
