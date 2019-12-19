@@ -22,11 +22,15 @@ loop do
           # See more: https://core.telegram.org/bots/api#replykeyboardremove
           kb = Telegram::Bot::Types::ReplyKeyboardRemove.new(remove_keyboard: true)
           bot.api.send_message(chat_id: message.chat.id, text: 'Sorry to see you go :(', reply_markup: kb)
-       end
-     end
+          end
+        end
         if message&.text && message&.chat&.id
           mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
           mdp.dispatch CommandWatcher.parse(message.text)
+        elsif message.text.start_with? '/image'
+            image_path = "./images/*"
+            images = Dir[image_path]
+            dispatcher.send(photo: images.sample)
         end
       end
   rescue => e
