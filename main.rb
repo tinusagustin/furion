@@ -30,7 +30,6 @@ loop do
           mdp.dispatch CommandWatcher.parse(message.text)
         end
       end
-    end
   rescue => e
     puts e.inspect
   end
