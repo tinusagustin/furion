@@ -11,9 +11,6 @@ loop do
     Telegram::Bot::Client.run(token) do |bot|
       bot.listen do |message|
         case message.text
-        when message&.text && message&.chat&.id
-          mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
-          mdp.dispatch CommandWatcher.parse(message.text)
         when '/makan2'
           question = 'Mau makan-makan kapan?'
           # See more: https://core.telegram.org/bots/api#replykeyboardmarkup
@@ -25,9 +22,15 @@ loop do
           # See more: https://core.telegram.org/bots/api#replykeyboardremove
           kb = Telegram::Bot::Types::ReplyKeyboardRemove.new(remove_keyboard: true)
           bot.api.send_message(chat_id: message.chat.id, text: 'Sorry to see you go :(', reply_markup: kb)
+          end
         end
-       end
+        case message.text
+        if message&.text && message&.chat&.id
+          mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
+          mdp.dispatch CommandWatcher.parse(message.text)
+        end
       end
+    end
   rescue => e
     puts e.inspect
   end
