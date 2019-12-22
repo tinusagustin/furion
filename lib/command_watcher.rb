@@ -20,18 +20,12 @@ Hello, nice yo meet you!
 /start     - startup message
 /quote - get a mindful quote
       MESSAGE
-    elsif args.include?('abcd')
-      <<-MESSAGE
-gqjigqejoiqejqeopj
-      MESSAGE
     elsif args[0].include?('/info')
       <<-MESSAGE
 Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
       MESSAGE
     elsif args[0].include?('/te')
-      <<-MESSAGE
-Hoy, ada yang nyariin tuh @tinusagustin @izul683
-      MESSAGE
+      'Hoy, ada yang nyariin tuh @tinusagustin @izul683'
     elsif args[0].include?('/fe')
       <<-MESSAGE
 Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
@@ -54,12 +48,6 @@ Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
       RandomDotaRole.dota_role
     elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
       'Think about it man!'
-    elsif ['product'].include? args[0].downcase
-      'veby puti juli'
-    elsif 'cc product'.include? args[0].downcase
-      <<-MESSAGE
-veby puti juli
-      MESSAGE
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
