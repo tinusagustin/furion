@@ -21,11 +21,11 @@ Hello, nice yo meet you!
 /quote - get a mindful quote
       MESSAGE
     elsif args[0].include?('/info')
-      'Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.'
+      <<-MESSAGE
+Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
+      MESSAGE
     elsif args[0].include?('/te')
-      'Hoy, ada yang nyariin tuh @tinusagustin @izul683
-      fasfafa
-      qwqwq'
+      'Hoy, ada yang nyariin tuh @tinusagustin @izul683'
     elsif args[0].include?('/fe')
       `Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw`
     elsif args[0].include?('/be')
@@ -42,6 +42,15 @@ Hello, nice yo meet you!
       RandomDotaRole.dota_role
     elsif ['what?', 'wat', 'wat?'].include? args[0].downcase
       'Think about it man!'
+    elsif args[0].include?('/makan')
+      question = 'Mau makan-makan kapan?'
+      answers =
+        Telegram::Bot::Types::ReplyKeyboardMarkup
+        .new(keyboard: [%w(A.sekarang B.besok), %w(C.lusa D.nggakbisasemuanya)], one_time_keyboard: true)
+      bot.api.send_message(chat_id: message.chat.id, text: question, reply_markup: answers)
+    elsif args[0].include?('tidakmakan')
+      kb = Telegram::Bot::Types::ReplyKeyboardRemove.new(remove_keyboard: true)
+      bot.api.send_message(chat_id: message.chat.id, text: 'Sorry to see you go :(', reply_markup: kb)        
     elsif args[0].start_with? '/'
       'Sorry, but I do not know that command'
     else
