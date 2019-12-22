@@ -23,6 +23,7 @@ loop do
           elsif message&.text && message&.chat&.id
             mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
             mdp.dispatch CommandWatcher.parse(message.text)
+          end
         end
       end
     end
