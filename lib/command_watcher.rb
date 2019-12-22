@@ -21,23 +21,17 @@ Hello, nice yo meet you!
 /quote - get a mindful quote
       MESSAGE
     elsif args[0].include?('/info')
-      <<-MESSAGE
-Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.
-      MESSAGE
+      'Right now there are #{RandomQuoter.count} different quotes that this bot will respond with.'
     elsif args[0].include?('/te')
-      'Hoy, ada yang nyariin tuh @tinusagustin @izul683'
+      'Hoy, ada yang nyariin tuh @tinusagustin @izul683
+      fasfafa
+      qwqwq'
     elsif args[0].include?('/fe')
-      <<-MESSAGE
-Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw
-      MESSAGE
+      `Hoy, ada yang nyariin tuh @andrewmanullang @maulshh @arfandiw`
     elsif args[0].include?('/be')
-      <<-MESSAGE
-Hoy, ada yang nyariin tuh @farhanadha @sagaramahardikas
-      MESSAGE
+      'Hoy, ada yang nyariin tuh @farhanadha @sagaramahardikas'
     elsif args[0].include?('/product')
-      <<-MESSAGE
-Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati
-      MESSAGE
+      'Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati'
     elsif args[0].include?('/quote')
       RandomQuoter.quote
     elsif args[0].include?('/food')
