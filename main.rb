@@ -11,7 +11,12 @@ loop do
     Telegram::Bot::Client.run(token) do |bot|
       bot.listen do |message|
         if message.text
-          if message.text.start_with? '/makan2'
+          dispatcher = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
+          if message.text.start_with? '/image'
+            image_path = "./images/*"
+            images = Dir[image_path]
+            dispatcher.send(photo: images.sample)
+          elsif message.text.start_with? '/makan2'
           question = 'Mau makan-makan kapan?'
           answers =
             Telegram::Bot::Types::ReplyKeyboardMarkup
