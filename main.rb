@@ -16,6 +16,10 @@ loop do
             image_path = "./images/*"
             images = Dir[image_path]
             dispatcher.send(photo: images.sample)
+          elsif message.text.start_with? '/gif'
+            image_path = "./gifs/*"
+            gifs = Dir[image_path]
+            dispatcher.send(gif: gifs.sample)
           elsif message.text.start_with? '/makan2'
           question = 'Mau makan-makan kapan?'
           answers =
