@@ -10,19 +10,17 @@ loop do
   begin
     Telegram::Bot::Client.run(token) do |bot|
       bot.listen do |message|
-        case message.text
-        when '/makan2'
+        if message.text
+          if message.text.start_with? '/makan2'
           question = 'Mau makan-makan kapan?'
           answers =
             Telegram::Bot::Types::ReplyKeyboardMarkup
             .new(keyboard: [%w(A.sekarang B.besok), %w(C.lusa D.nggakbisasemuanya)], one_time_keyboard: true)
           bot.api.send_message(chat_id: message.chat.id, text: question, reply_markup: answers)
-        when '/tidakmakan2'
-          # See more: https://core.telegram.org/bots/api#replykeyboardremove
+          elsif message.text.start_with? '/tidakmakan2'
           kb = Telegram::Bot::Types::ReplyKeyboardRemove.new(remove_keyboard: true)
           bot.api.send_message(chat_id: message.chat.id, text: 'Sorry to see you go :(', reply_markup: kb)
-        end
-        if message&.text && message&.chat&.id
+          elsif message&.text && message&.chat&.id
             mdp = MessageDispatcher.new(bot: bot, chat_id: message.chat.id)
             mdp.dispatch CommandWatcher.parse(message.text)
         end
