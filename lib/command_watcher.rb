@@ -32,6 +32,8 @@ Right now there are #{RandomQuoter.count} different quotes that this bot will re
       'Hoy, ada yang nyariin tuh @farhanadha @sagaramahardikas'
     elsif args[0].include?('/product')
       'Hai hai, kalian dicariin nih @vebyregina @juliantivalentini @pflarasati'
+    elsif args[0].include?('/standup')
+      'SU jam 16.00!'
     elsif args[0].include?('/quote')
       RandomQuoter.quote
     elsif args[0].include?('/food')
